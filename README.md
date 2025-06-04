@@ -13,16 +13,11 @@ Este plugin de Moodle te permite gestionar y requerir la firma digital de contra
 
 | Versión de Moodle | Estado de Compatibilidad                                   | Notas                      | Final |
 |-------------------|------------------------------------------------------------|----------------------------|-------|
-| 4.0.x             | <span style="color:orange;">Compatible</span>              | Probado exhaustivamente.   | 🟩   |
-| 4.1.x             | <span style="color:orange;">Compatible</span>              | Probado exhaustivamente.   | 🟩   |
-| 4.2.x             | <span style="color:orange;">Compatible</span>              | Probado exhaustivamente.   | 🟩   |
-| 4.3.x             | <span style="color:orange;">Compatible</span>              | Probado exhaustivamente.   | 🟩   |
-| 4.4.x             | <span style="color:orange;">Compatible</span>              | Probado exhaustivamente.   | 🟩   |
+| 4.0.x             | <span style="color:green;">Compatible</span>               | Probado exhaustivamente.   | 🟩   |
+| 4.1.x             | <span style="color:green;">Compatible</span>               | Probado exhaustivamente.   | 🟩   |
+| 4.2.x             | <span style="color:green;">Compatible</span>               | Probado exhaustivamente.   | 🟩   |
+| 4.3.x             | <span style="color:green;">Compatible</span>               | Probado exhaustivamente.   | 🟩   |
+| 4.4.x             | <span style="color:green;">Compatible</span>               | Probado exhaustivamente.   | 🟩   |
 | 4.5.x             | <span style="color:green;">Compatible</span>               | Probado exhaustivamente.   | 🟩   |
-
-## ⚙️ Desarrollando la compatibilidad / Update 03.06.2025  
-
-| Versión de Moodle | Estado de Compatibilidad                                   | Notas                      | Final |
-|-------------------|------------------------------------------------------------|----------------------------|-------|
-| 5.0.0             | <span style="color:orange;">Verificado</span>              | No compatible.             | 🟥   |
+| 5.0.0             | <span style="color:green;">Compatible</span>               | Probado exhaustivamente.   | 🟩   |
 
