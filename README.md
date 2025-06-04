@@ -24,5 +24,5 @@ Este plugin de Moodle te permite gestionar y requerir la firma digital de contra
 
 | Versión de Moodle | Estado de Compatibilidad                                   | Notas                      | Final |
 |-------------------|------------------------------------------------------------|----------------------------|-------|
-| 5.0.0             | <span style="color:orange;">Verificando</span>             | No compatible.             | 🟥   |
+| 5.0.0             | <span style="color:orange;">Verificado</span>              | No compatible.             | 🟥   |
 
